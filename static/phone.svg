@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="70px" viewBox="0 0 63 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_phone</title>
+    <defs>
+        <path d="M24.6891096,31.6672104 L25.6324707,31.0805419 C26.0008989,30.8599549 26.3036192,30.6909936 26.608684,30.5548891 C28.7488465,29.5810202 30.6355824,30.2685955 33.1300759,33.18316 C34.6741856,34.9900943 35.1294383,36.5905239 34.5333854,38.0172875 C34.0898649,39.0826765 33.2356761,39.8171818 31.7126899,40.7253428 C31.6141298,40.7840097 30.738821,41.2955835 30.5135407,41.4340358 C26.9700585,43.6211306 18.8458959,38.6156847 13.0073985,30.0620851 C7.14542289,21.4873689 5.63182113,12.3447426 9.22222531,10.1247681 L9.69625367,9.82439457 L10.2101743,9.4911674 C12.0264964,8.31783385 13.1880977,7.84849768 14.565595,8.08081795 C15.9430888,8.315485 17.1117301,9.33393941 18.1020303,11.1878094 C20.1905649,15.1114452 19.73062,16.972338 17.0460291,18.6643118 C16.8512557,18.7886852 16.1660281,19.2017003 16.1003202,19.2415925 C15.4432516,19.649913 16.5579207,22.3790883 19.1509916,26.1736631 C21.7722224,30.0104675 23.9663503,32.1107481 24.6844449,31.667207 L24.6891096,31.6672104 Z" id="path-1"></path>
+        <filter x="-61.8%" y="-26.5%" width="223.7%" height="206.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.309226285   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1商户详情-动态" transform="translate(-624.000000, -546.000000)" fill-rule="nonzero">
+            <g id="编组-7" transform="translate(30.000000, 529.000000)">
+                <g id="编组-28" transform="translate(594.000000, 17.796647)">
+                    <g id="路径" transform="translate(31.306851, 34.145909) rotate(-10.000000) translate(-31.306851, -34.145909) translate(4.806851, 4.145909)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FF7233" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
