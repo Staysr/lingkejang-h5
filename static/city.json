@@ -27,7 +27,7 @@
 			"Z"
 		],
 		"area":[{"areaName":"东城区","areaId":1},{"areaName":"西城区","areaId":2},{"areaName":"朝阳区","areaId":3}],
-		"hotcity":[{"cityName":"北京","cityId":2},{"cityName":"上海","cityId":22},{"cityName":"广州","cityId":424},{"cityName":"武汉","cityId":1321}],
+		"hotcity":[],
 		"cities": {
 			"A": [
 				{
@@ -1345,7 +1345,7 @@
 				{
 					"city": "石家庄市",
 					"spell": "shijiazhuangshi",
-					"cityId": 815
+					"cityId": 130100
 				},
 				{
 					"city": "十堰市",
